@@ -42,7 +42,7 @@
   &nbsp;
   <a href="https://nestjs.com/" target="_blank"> 
     <img 
-      src="./icons/nest-js.svg"
+      src="./icons/logo-small.svg"
       alt="NestJS"
       title="NestJS"
       width="36" 
