@@ -75,7 +75,7 @@
       width="36"
     /> 
   </a>
-  &nbsp;
+
   <a href="https://jestjs.io" target="_blank"> 
     <img 
       src="./icons/jest.svg"
