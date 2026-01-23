@@ -3,7 +3,6 @@
    <img src="./icons/hi-hand.gif" width="32">
 </h1>
 
-- 🎓 I'm studying System analysis and development at [FATEC](https://fatecourinhos.edu.br/)
 - 💻 I’m working as Back-end at [Pinaculo Digital](https://www.pinaculodigital.com.br/)
 - 📚 I'm always looking for new knowledge
 - ❤️ I love new challenges and build software that positively impact people's lives
